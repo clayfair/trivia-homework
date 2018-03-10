@@ -1,0 +1,83 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-size: cover;
+}
+
+#container {
+    width: 600px;
+    margin: 0 auto;
+    height: 700px;
+    border-radius: 25px;
+    border: 1px solid grey;
+    margin-top: 50px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 70px;
+    color:#35399A;
+    padding-top: 70px;
+    
+}
+
+#start {
+    width: 300px;
+    height: 90px;
+    font-size: 40px;
+    margin: auto;
+    color: #9E9AB8;
+    border: 2px solid #E5E5E5;
+    margin-top: 300px;
+    border-radius: 20px;
+    margin-left: 150px;
+}
+
+h2 {
+    font-size: 20px;
+    width: 300px;
+    height: 40px;
+    padding-top: 20px;
+}
+
+h2:hover {
+    color:#35399A;
+    background-color: #E7E5E9;
+    border-radius: 15px;
+
+}
+
+#multiChoice {
+    margin-left: 150px;
+    text-align: center;
+}
+
+#timeRemaining {
+    text-align: center;
+    margin-top: 30px;
+    font-size: 25px;
+    
+}
+
+.question {
+    margin-left: 120px;
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+#outOfTime {
+    text-align: center;
+    margin-top: 15px;
+    font-size: 22px;
+}
+
+#correctAnswer {
+    text-align: center;
+    
+}
+
+img {
+    margin-top: 20px;
+}
+
+
+
